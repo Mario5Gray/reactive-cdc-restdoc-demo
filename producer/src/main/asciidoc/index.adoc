@@ -1,0 +1,6 @@
+# The Planets API
+
+You can receive all known Planets with the following
+call:
+
+operation::all[snippets='curl-request,httpie-request,http-request,http-response,request-body,response-body']
